@@ -1,6 +1,13 @@
 # IIT-Bombay-Dataset-Ear-Biometrics
 Codes for the IEEE conference paper: A Novel Embedding Architecture and Score Level Fusion Scheme for Occluded Image Acquisition in Ear Biometrics System
 
+# Codes
+
+The three .ipynb files are for the three different models used in the paper. The only difference among the three notebooks is in the deep learning network definition portion. Corresponding html versions of the notebooks are also provided. These notebooks also have the metric curves, whereas the paper only consists of the final scalar metric values. 
+
+# Dataset 
+
+The drive link for obtaining the dataset is provided. The data is stored in a .mat file. All the ear RGB images in the IITB ear dataset are stacked one by one in the .mat file. In the codes this .mat file is loaded and further triplet making for training and computation of metrics at testing stage is done using this file only. Separate images will not be required to run the .ipynb files
 
 # Authors
 
