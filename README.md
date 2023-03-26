@@ -4,7 +4,12 @@ Codes for the IEEE conference paper: A Novel Embedding Architecture and Score Le
 
 # Authors
 
-
+* Archishman Biswas
+* Goutham A.P.
+* Saket Pateriya
+* Divyang S. Jadav
+* Satish Mulleti
+* Vikram M. Gadre
 
 # Please cite the following reference paper:
 
