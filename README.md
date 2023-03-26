@@ -13,6 +13,6 @@ Codes for the IEEE conference paper: A Novel Embedding Architecture and Score Le
 
 # Please cite the following reference paper:
 
-Biswas, A., Goutham, A. P., Pateriya, S., Jadav, D. S., Mulleti, S., & Gadre, V. M. (2023). A Novel Embedding Architecture and Score Level Fusion Scheme for Occluded Image Acquisition in Ear Biometrics System. In 2023 National Conference on Communications (NCC). 2023 National Conference on Communications (NCC). IEEE. https://doi.org/10.1109/ncc56989.2023.10068032
+A. Biswas, A. P. Goutham, S. Pateriya, D. S. Jadav, S. Mulleti and V. M. Gadre, "A Novel Embedding Architecture and Score Level Fusion Scheme for Occluded Image Acquisition in Ear Biometrics System," 2023 National Conference on Communications (NCC), Guwahati, India, 2023, pp. 1-6, doi: 10.1109/NCC56989.2023.10068032.
 
 
